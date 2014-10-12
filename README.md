@@ -21,4 +21,8 @@ polyv-android-sdk-demo
 	client.setWritetoken("Y07Q4yopIVXN83n-MPoIlirBKmrMPJu0");
 		
 参考MainActivity按钮事件演示代码
+
+
+
+![alt tag](https://cloud.githubusercontent.com/assets/3022663/4606614/4593a3e2-5227-11e4-8108-e1ef286ca087.png)
   
