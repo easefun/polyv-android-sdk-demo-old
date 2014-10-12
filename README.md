@@ -7,14 +7,17 @@ polyv-android-sdk-demo
 --
 下载本案例，在eclipse创建android项目，选择"android project from existing code"
 
+额外需要的包有
+	httpclient-android-4.3.3.jar
+	httpmime-4.3.5.jar
+
 
 描述
 --
       先初始化PolyvSDKClient，设置token
-      
-      PolyvSDKClient client = PolyvSDKClient.getInstance();
-			client.setReadtoken("nsJ7ZgQMN0-QsVkscukWt-qLfodxoDFm");
-			client.setWritetoken("Y07Q4yopIVXN83n-MPoIlirBKmrMPJu0");
-			
+      	PolyvSDKClient client = PolyvSDKClient.getInstance();
+	client.setReadtoken("nsJ7ZgQMN0-QsVkscukWt-qLfodxoDFm");
+	client.setWritetoken("Y07Q4yopIVXN83n-MPoIlirBKmrMPJu0");
+		
 参考MainActivity按钮事件演示代码
   
