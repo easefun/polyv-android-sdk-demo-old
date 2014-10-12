@@ -24,5 +24,6 @@ polyv-android-sdk-demo
 
 
 
-![alt tag](https://cloud.githubusercontent.com/assets/3022663/4606614/4593a3e2-5227-11e4-8108-e1ef286ca087.png =250x)
+
   
+![](https://cloud.githubusercontent.com/assets/3022663/4606614/4593a3e2-5227-11e4-8108-e1ef286ca087.png =250x)
