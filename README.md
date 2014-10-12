@@ -22,8 +22,7 @@ polyv-android-sdk-demo
 		
 参考MainActivity按钮事件演示代码
 
-
+<img src="https://cloud.githubusercontent.com/assets/3022663/4606614/4593a3e2-5227-11e4-8108-e1ef286ca087.png" alt="" style="width: 200px;"/>
 
 
   
-![](https://cloud.githubusercontent.com/assets/3022663/4606614/4593a3e2-5227-11e4-8108-e1ef286ca087.png)
