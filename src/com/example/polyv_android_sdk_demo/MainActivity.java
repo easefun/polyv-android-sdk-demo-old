@@ -26,7 +26,6 @@ import android.widget.Toast;
 
 import com.easefun.polyvsdk.Downloader;
 import com.easefun.polyvsdk.PolyvSDKClient;
-import com.easefun.polyvsdk.RecordActivity;
 import com.easefun.polyvsdk.Video;
 import com.easefun.polyvsdk.VideoViewActivity;
 

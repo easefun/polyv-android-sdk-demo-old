@@ -32,7 +32,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.easefun.polyvsdk.RecordActivity"
+            android:name="com.example.polyv_android_sdk_demo.RecordActivity"
             android:screenOrientation="landscape"
             android:theme="@style/NoActionBar"
             android:label="@string/title_activity_record" >

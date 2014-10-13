@@ -3,5 +3,5 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.easefun.polyvsdk.RecordActivity"
+    tools:context="com.example.polyv_android_sdk_demo.RecordActivity"
     tools:ignore="MergeRootFrame" />
