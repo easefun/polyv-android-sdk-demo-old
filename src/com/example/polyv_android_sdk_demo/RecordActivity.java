@@ -291,7 +291,8 @@ public class RecordActivity extends ActionBarActivity {
 
 			// Step 3: Set output format and encoding (for versions prior to API
 			// Level 8)
-			CamcorderProfile camcorderProfile = CamcorderProfile.get(CamcorderProfile.QUALITY_HIGH);
+			//CamcorderProfile camcorderProfile = CamcorderProfile.get(CamcorderProfile.QUALITY_HIGH);
+			CamcorderProfile camcorderProfile = CamcorderProfile.get(CamcorderProfile.QUALITY_LOW);
 			camcorderProfile.videoFrameWidth = 1024;
 			camcorderProfile.videoFrameHeight = 768;
 			// camcorderProfile.videoFrameRate = 15;

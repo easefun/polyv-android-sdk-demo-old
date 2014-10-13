@@ -115,7 +115,7 @@ public class MainActivity extends ActionBarActivity {
 		        File path = new File(Environment.getExternalStorageDirectory(), "downloaded.mp4");
 		       
 		        try{
-		        	downloader = new Downloader(new URL("http://v.polyv.net/uc/video/getMp4?vid=sl8da4jjbxfa118270cb5c00d70802df_s"),path);
+		        	downloader = new Downloader("sl8da4jjbxfa118270cb5c00d70802df_s",path);
 		        	downloader.begin();
 		        }catch(Exception e){
 		        	e.printStackTrace();
