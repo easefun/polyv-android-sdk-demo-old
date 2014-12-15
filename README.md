@@ -12,11 +12,16 @@ polyv-android-sdk-demo
 	httpclient-android-4.3.3.jar
 	httpmime-4.3.5.jar
 
+
 项目需要android.support.v7支持	
+--
 
 选择 File > Import.
+
 Select Existing Android Code Into Workspace 选择下一步.
+
 浏览到Android SDK安装目录继续进入<sdk>/extras/android/support/v7/appcompat/.
+
 点击完成. eclipse会创建一个新项目叫android-support-v7-appcompat.
 
 在当前项目选择项目属性-> android，在library点击add按钮，选择android-support-v7-appcompat。
